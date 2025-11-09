@@ -1,9 +1,6 @@
-
-let variblle4 = `
-C is fun
+let varible = `C is fun
 Python is cool
-JavaScript is amazing
-`
+JavaScript is amazing`
 
-console.log(variblle4)
+console.log(varible)
 
